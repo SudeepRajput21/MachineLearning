@@ -1,2 +1,2 @@
-# MachineLearning
-Basics about Machine Learning
+# Image_Captioning
+Machine Learning Project
