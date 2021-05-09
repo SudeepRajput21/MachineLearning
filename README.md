@@ -1,2 +1,2 @@
 # Image_Captioning
-Machine Learning Project
+A Machine Learning project. It is an Image Captioning Model which will automatically describe the content of an image which will be provided to it as an input. The output is generated in the form of captions. Image Captioning is a multi-model technique which involves both Convolution and Recurrent neural networks. CNN is used to extract the features from the image and RNN is used to translate those features into text.
